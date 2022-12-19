@@ -55,7 +55,7 @@ header img {
     color: rgb(240, 139, 45);
 }
 main {
-    background-image: url('/img/hand_food_pizza_cook.jpg');
+    background-image: url('./img/hand_food_pizza_cook.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: 35%;
