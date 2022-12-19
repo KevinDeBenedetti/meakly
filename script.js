@@ -106,7 +106,7 @@ async function toggleModal(event) {
             let ingredient = showData.meals[0][`strIngredient${i}`].toString();
             let newIngredient = document.createElement('p');
             if(ingredient !== (null || "")) {
-                ingredients.textContent = `${ingredient}, `;
+                ingredients.textContent += `${ingredient}, `;
             }        
         }
 }
