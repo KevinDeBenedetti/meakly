@@ -64,3 +64,11 @@ Triade de couleurs (Adobe Color) :
 - Beige : #FCECD2
 - Moutarde foncé : #C2903E
 
+# En cours de modications : 
+- Ouverture d'une fenêtre modale avec le menu du jour
+- Amélioration du responsive
+- Optimisation du code
+- Menu burger
+- Liens internes
+
+

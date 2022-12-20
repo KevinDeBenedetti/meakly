@@ -88,7 +88,6 @@ async function toggleModal(event) {
   modalContainer.classList.toggle('active')
   let target = event.target;
   let id = target.getAttribute('data-id');
-
   // let fetchDat = fetch(`https://www.themealdb.com/api/json/ v1/1/lookup.php?i=${data}`)
   //                 .then(response => response.json())
   //                 .then(data => console.log(data))
