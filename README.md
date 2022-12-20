@@ -12,20 +12,20 @@
   MEAKLY - A delicious meal by day
   
 ### Balise meta
-  <meta name="keywords" content="meal, menu">
-  <meta name="description" content="Free suggest meal for every day of a week">
-  <meta name="author" content="Le K">
+  `<meta name="keywords" content="meal, menu">`
+  `<meta name="description" content="Free suggest meal for every day of a week">`
+  `<meta name="author" content="Le K">`
 
 ### Titres du contenu html
-  <h1>, <h2>, <h3>
+  `<h1>`, `<h2>`, `<h3>`
 
 ### FR
-  <h1>Qu'est ce qu'on mange cette semaine ?</h1>
-  <p>Venez découvrir nos délicieuses recettes pour des repas équilibrés et diversifiés. Ce site permettra d’éveiller vos papilles avec de nouvelles recettes chaque semaine, pour préparer de délicieux plats avec les recommandations de nos chefs dans des recettes accessibles à préparer et satisfaisantes à déguster. </p>
+  `<h1>Qu'est ce qu'on mange cette semaine ?</h1>`
+  `<p>Venez découvrir nos délicieuses recettes pour des repas équilibrés et diversifiés. Ce site permettra d’éveiller vos papilles avec de nouvelles recettes chaque semaine, pour préparer de délicieux plats avec les recommandations de nos chefs dans des recettes accessibles à préparer et satisfaisantes à déguster. </p>`
 
  ### EN
- <h1>What do we eat this week ?</h1>
- <p>Come and discover our delicious recipes for balanced and diversified meals. This site will awaken your taste buds with new recipes every week, to prepare delicious dishes with the recommendations of our chefs in recipes that are accessible to prepare and satisfying to taste.</p>
+ `<h1>What do we eat this week ?</h1>`
+ `<p>Come and discover our delicious recipes for balanced and diversified meals. This site will awaken your taste buds with new recipes every week, to prepare delicious dishes with the recommendations of our chefs in recipes that are accessible to prepare and satisfying to taste.</p>`
  
 ### En plus
 ✅ Bandeau menu du jour
