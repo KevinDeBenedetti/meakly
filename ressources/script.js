@@ -18,7 +18,7 @@ async function getFetch() {
         mealImage.setAttribute('src', showData.meals[0].strMealThumb);
         mealImage.setAttribute('alt', `Picture of ${showData.meals[0].strMeal}`);
 
-        let mealName = mealCard.querySelector('.details p');
+        let mealName = mealCard.querySelector('.details h3');
         mealName.textContent = showData.meals[0].strMeal;
         let mealBtn = document.querySelector(`#btn-${i}`);
         mealBtn.setAttribute('data-id', showData.meals[0].idMeal);
@@ -100,7 +100,6 @@ async function toggleModal(event) {
   recipe.textContent = showData.meals[0].strInstructions;
   
     let ingredients = document.querySelector('.modalIngredients');
-    console.log(ingredients);
 
         for (let i=1 ; i <= 20 ; i++) {
             let ingredient = showData.meals[0][`strIngredient${i}`].toString();
