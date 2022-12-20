@@ -38,7 +38,7 @@
 ✅ Langages utilisés : HTML5, CSS3, JS
 ✅ Balises sémantiques
 ✅ Validateur W3C HTML et CSS
-- Si besoin d'îcones, utilisez [FontAwesome](https://fontawesome.com/icons) ou [GoogleFont](https://fonts.google.com/icons)
+
 ### API
 ✅ https://www.themealdb.com/
 
