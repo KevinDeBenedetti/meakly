@@ -1,12 +1,12 @@
 # ECF | Front-End
 
 ## Les fonctionnalités du Site
-✅ Un header le logo du site 
-✅ Un footer avec au nom, prénom et Crédits 
-✅ Des cartes de repas pour chaque jour de la semaine 
-✅ Dans chaques cartes, descriptions des aliments qui composent le repas 
-✅ Un DISCLAIMER sur 5 fruits et légumes par jour
-✅ Pris en compte du référencement
+- ✅ Un header le logo du site 
+- ✅ Un footer avec au nom, prénom et Crédits 
+- ✅ Des cartes de repas pour chaque jour de la semaine 
+- ✅ Dans chaques cartes, descriptions des aliments qui composent le repas 
+- ✅ Un DISCLAIMER sur 5 fruits et légumes par jour
+- ✅ Pris en compte du référencement
 ## SEO
 ### Balise title
   MEAKLY - A delicious meal by day
@@ -28,19 +28,19 @@
  `<p>Come and discover our delicious recipes for balanced and diversified meals. This site will awaken your taste buds with new recipes every week, to prepare delicious dishes with the recommendations of our chefs in recipes that are accessible to prepare and satisfying to taste.</p>`
  
 ### En plus
-✅ Bandeau menu du jour
+- ✅ Bandeau menu du jour
 - Détecter automatiquement le jour de la semaine pour afiicher en priorité la recette du jour
 - Utilisation du constructeur Date()
 - Choix du repas par jour avec switch
 
 ## Détails
-✅ Un maquette mobile et desktop
-✅ Langages utilisés : HTML5, CSS3, JS
-✅ Balises sémantiques
-✅ Validateur W3C HTML et CSS
+- ✅ Un maquette mobile et desktop
+- ✅ Langages utilisés : HTML5, CSS3, JS
+- ✅ Balises sémantiques
+- ✅ Validateur W3C HTML et CSS
 
 ### API
-✅ https://www.themealdb.com/
+- ✅ https://www.themealdb.com/
 
 ## Polices :
 - Texte de courant : 14px -> 16px
