@@ -28,13 +28,13 @@
  `<p>Come and discover our delicious recipes for balanced and diversified meals. This site will awaken your taste buds with new recipes every week, to prepare delicious dishes with the recommendations of our chefs in recipes that are accessible to prepare and satisfying to taste.</p>`
  
 ### En plus
-- ✅ Bandeau menu du jour
+- Bandeau menu du jour
 - Détecter automatiquement le jour de la semaine pour afiicher en priorité la recette du jour
 - Utilisation du constructeur Date()
 - Choix du repas par jour avec switch
 
 ## Détails
-- ✅ Un maquette mobile et desktop
+- ✅ Une maquette mobile et desktop
 - ✅ Langages utilisés : HTML5, CSS3, JS
 - ✅ Balises sémantiques
 - ✅ Validateur W3C HTML et CSS
